@@ -16,6 +16,15 @@
 
 ---
 
+👇 Connect with Me via Terminal <br>
+---
+![Run in Terminal](https://img.shields.io/badge/Run%20in-Terminal-blue?logo=gnubash)
+
+```bash
+npx iamkrvishal07
+```
+
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkrvishal07&theme=react-dark&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
