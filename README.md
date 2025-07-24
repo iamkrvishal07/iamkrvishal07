@@ -33,7 +33,6 @@ npx iamkrvishal07
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamkrvishal07&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://wakatime.com/badge/user/b486c624-54cb-4d61-9d41-06e9e496bcfe.svg" alt="WakaTime Badge" />
 </p>
 
 ---
