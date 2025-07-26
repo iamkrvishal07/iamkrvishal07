@@ -90,6 +90,16 @@ npx iamkrvishal07
 
 ---
 
+### Badge
+
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, 'Segoe UI', Calibri, sans-serif;">
+    <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/1ptX7ffdQ8Oe9b9ICgnVsA/image" alt="Postman API Fundamentals Student Expert Badge">
+  <p class="badgr-badge-name" style="margin: 0; font-size: 16px; font-weight: 600;">Postman API Fundamentals Student Expert</p>
+</blockquote>
+
+
+---
+
 ### Connect
 
 <p>
