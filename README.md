@@ -11,8 +11,7 @@
 - 4th year B.Tech student at Silicon University  
 - Exploring open source, UI/UX design, and diving deeper into backend development  
 - I enjoy writing technical blogs on [Hashnode]() to simplify complex topics  
-- Currently developing ConnectDot, with plans to launch in the future  
-- 2025 Goal: Complete and launch ConnectDot, and grow as a backend-focused developer
+- 2025 Goal: Grow as a backend-focused developer
 
 ---
 ### 😊 Check Out My   [Portfolio](https://iamkrvishal07.onrender.com) 
